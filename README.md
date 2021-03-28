@@ -1,4 +1,4 @@
-# Neural-Net-Demosaic AKA Coloury
+# Convolutional-Neural-Network-Demosaic AKA Coloury
 
 # Problem
 Nearly all digital cameras capture a mosaic and must run this into a demosaicing algorithm to predict the raw image. This program uses a CNN trained on hundreds of images gathered
